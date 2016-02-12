@@ -1,2 +1,2 @@
 hello github
-code from other git... 
+code from main github 
